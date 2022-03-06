@@ -1,6 +1,9 @@
 # 2_Descriptive-Statistics-and-Data-Exploration
 
-Contacts:
+### Notebook - eda.ipynb
+
+
+### Contacts:
 
 tg -  @op_popo
 
